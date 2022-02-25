@@ -1,0 +1,1190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of holy Christian religion, or, The catechism of the Church of England paraphrazed for the use of Borwick-Hall.</title>
+            <author>Sherlock, R. (Richard), 1612-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59771</idno>
+            <idno type="STC">Wing S3246</idno>
+            <idno type="STC">ESTC R33882</idno>
+            <idno type="EEBO-CITATION">13589799</idno>
+            <idno type="OCLC">ocm 13589799</idno>
+            <idno type="VID">100650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1048:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of holy Christian religion, or, The catechism of the Church of England paraphrazed for the use of Borwick-Hall.</title>
+                  <author>Sherlock, R. (Richard), 1612-1689.</author>
+               </titleStmt>
+               <extent>[14], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes and are to be sold by R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Sherlock by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100650:1"/>
+            <p>THE PRINCIPLES OF Holy Chriſtian Religion: OR, The <hi>Catechiſm</hi> of the Church of <hi>England</hi> paraphrazed.</p>
+            <p>For the uſe of <hi>Borwick-Hall.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Let us hold faſt the profeſsion of our faith without wavering,</hi> 
+               </p>
+               <bibl>Heb. 10.23.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Cotes,</hi> and are to be ſold by <hi>R. Royſton</hi> at the <hi>Angel</hi> in <hi>Ivie-lane,</hi> 1656.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:100650:2"/>
+            <pb facs="tcp:100650:2"/>
+            <head>
+               <hi>The Preface, Touching the</hi> neceſſity <hi>of</hi> Catechizing: <hi>the</hi> autho<g ref="char:EOLhyphen"/>rity, uſefulneſs, <hi>and</hi> gene<g ref="char:EOLhyphen"/>ral Heads <hi>of our</hi> Church Catechiſm.</head>
+            <p>AS all <hi>tender conſcienc't men</hi> do ſadly lament the ma<g ref="char:EOLhyphen"/>nifold <hi>Sects</hi> and <hi>diviſions,</hi> and various opinions in <hi>Religion</hi> amongſt us: ſo all <hi>wiſe</hi> and <hi>pru<g ref="char:EOLhyphen"/>dent</hi> perſons do withal conſider and obſerve the <hi>cauſes</hi> thereof: that ſuch diſorders and confu<g ref="char:EOLhyphen"/>ſions may be remedied and pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>And the greateſt cauſe of ſo much <note place="margin">Jam. 1.6.</note>
+               <pb facs="tcp:100650:3"/>giddineſs in the mindes of men, why ſo many <hi>waver like a wave of the ſea,
+<note place="margin">Jam. 1.6.</note> driven to and fro with every winde of Doctrine,</hi> and toſſed, is for want of a good bottome, or ſure foundation to ſtand upon; which conſiſts in being well <hi>Ca<g ref="char:EOLhyphen"/>techized,</hi> or throughly inſtructed in the principles of the holy and true Religion.</p>
+            <p>There is no want of <hi>Preaching</hi> or <hi>Hearing Sermons,</hi> nor can this be the ſource and original of ſo much inconſtancy in Religion, (it may be the cauſe of <hi>ignorance,</hi> but not of <hi>error</hi>) ſince we ſee by experience, that the moſt <hi>fickle</hi> and <hi>giddy people,</hi> are commonly the moſt eager <hi>hearers</hi> of many Sermons, and ſeveral Preachers: and what's the reaſon? but that ſuch Sermons as men ordinarily hear, being not firſt well <hi>Ca<g ref="char:EOLhyphen"/>techized,</hi> render their mindes like a <hi>ſhip</hi> without <hi>ballaſt,</hi> which can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:100650:3"/>keep a ſteady courſe, but toſſes, rolls, and tumbles, and is by every guſt of winde overthrown.</p>
+            <p>For <hi>Preaching</hi> without <hi>Catechi<g ref="char:EOLhyphen"/>zing</hi> firſt, is as if a man ſhould go about to build a <hi>houſe</hi> without a <hi>foundation,</hi> which can prove no other, but ſome <hi>Caſtle in the air;</hi> or as if we ſhould think to be <hi>per<g ref="char:EOLhyphen"/>fect men,</hi> and never paſſe through the ſtate of <hi>infancy</hi> and <hi>youth:</hi> or as if <hi>ſucking Infants</hi> in ſtead of <hi>milk</hi> ſhould feed upon <hi>ſtrong fleſh,</hi> and this too often <hi>raw,</hi> 
+               <note place="margin">1 Cor. 3.2. Heb. 5.12, 13.</note> and <hi>indigeſted</hi> alſo.</p>
+            <p>Hence it comes to paſſe, that there are ſo many 1. Upon whom that Propheſie of <hi>Iſaiah</hi> is fulfil<g ref="char:EOLhyphen"/>led, <note place="margin">Mat. 13.14.</note> 
+               <hi>By hearing ye ſhall hear and not underſtand, and by ſeeing ye ſhall ſee and not perceive:</hi> and that of S. <hi>Paul</hi> alſo, <hi>Ever learning, <note place="margin">2 Tim. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> and never able to come to the knowledge of the Truth.</hi>
+            </p>
+            <p>Hence 2. <note place="margin">Prov. 26.12.</note> ſo many become <hi>wiſe
+<pb facs="tcp:100650:4"/>in their own conceits,</hi> 
+               <note place="margin">Prov. 26.12.</note> who really are but <hi>fools</hi> in the <hi>knowledg</hi> of ſa<g ref="char:EOLhyphen"/>ving truth, <note place="margin">Rom. 1.21, 22.</note> 
+               <hi>who wax vain in their imaginations, &amp; their fooliſh hearts are darkned,</hi> through the glim<g ref="char:EOLhyphen"/>merings of conceited knowledge: who will take upon them to talk of this, and that point in Religion, argue againſt ſuch, and ſuch do<g ref="char:EOLhyphen"/>ctrines &amp; practiſes of the Church, and yet <hi>underſtand nothing of what they ſay, or whereof they affirm.</hi>
+            </p>
+            <p>Hence 3. it is, That the holy Word of God, which is in it ſelf rightly underſtood the <hi>pure foun<g ref="char:EOLhyphen"/>tain</hi> of <hi>truth,</hi> is made by many <hi>uncatechized,</hi> unprincipled men now a daies, the <hi>very ſink</hi> of <hi>errors,</hi> being miſinterpreted and miſapplyed to the maintenance of falſe opinions, and even <hi>doctrines of Devils.</hi>
+            </p>
+            <p>Whereas undoubtedly, were there a ſure foundation laid in the true, and thorough underſtanding
+<pb facs="tcp:100650:4"/>of the <hi>principles of Chriſtianity,</hi> there could not be poſſibly either ſo much <hi>ignorance</hi> and blindneſs beſotting the mindes of men, ſo much <hi>giddineſs</hi> and wavering in Religion, or ſo much <hi>abuſe</hi> and <hi>wreſting</hi> of holy Scriptures to the ruine of ſouls: for holding faſt the <hi>foundation,</hi> the minde of man, <hi>like a houſe built upon a rock,</hi>
+               <note place="margin">Mat. 7.24.</note> ſtands firm againſt the ſhock of every temptation, and is <hi>not toſſed to and fro with every winde of do<g ref="char:EOLhyphen"/>ctrine by the ſleight of men,
+<note place="margin">Eph. 4.14.</note> and cunning craftineſs, whereby they lie in wait to deceive.</hi>
+            </p>
+            <p>For the practiſe therefore of this duty of <hi>Catechizing,</hi> we have many both <hi>commands</hi> and <hi>exam<g ref="char:EOLhyphen"/>ples</hi> in holy Scriptures: ſee a<g ref="char:EOLhyphen"/>mongſt many others, Gen. 18.19. Deut. 6.6, 7. Pſal. 34.11. &amp; Pſal. 78. from the 1. to the 8. verſ. Prov. 22.6. 2 Tim. 3.14, 15.</p>
+            <pb facs="tcp:100650:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> The great <hi>neceſsity</hi> and <hi>uſeful<g ref="char:EOLhyphen"/>neſs</hi> of being well <hi>Catechized,</hi> be<g ref="char:EOLhyphen"/>ing thus apparent, and by all wiſe and knowing men conſidered, hath occaſioned the penning and printing of ſeveral <hi>Catechiſms:</hi> many of which, though they may be good in themſelves, and uſe<g ref="char:EOLhyphen"/>full in their kinde, yet none of them are to be ranked with, or to be eſteemed of equall authori<g ref="char:EOLhyphen"/>ty and uſefulneſs with our <hi>Church Catechiſm:</hi> becauſe,</p>
+            <p n="1">1. 'Tis not of <hi>private</hi> but <hi>pub<g ref="char:EOLhyphen"/>lick</hi> authority, and conſequently to be preferred before all others, as much as the <hi>Lawes</hi> and <hi>Statutes</hi> of a <hi>national Councel,</hi> before the conceptions and dictates of <hi>pri<g ref="char:EOLhyphen"/>vate perſons.</hi>
+            </p>
+            <p n="2">2. <note place="margin">Epheſ. 4.13.</note> For the maintenance of <hi>uni<g ref="char:EOLhyphen"/>ty in the Faith,</hi> 'tis neceſſary that there ſhould be one common <hi>form of ſound words,</hi>
+               <note place="margin">2 Tim. 1.13.</note> which all ſhould <hi>hold faſt,</hi> and ſtick cloſe
+<pb facs="tcp:100650:5"/>unto; that as we are all members of <hi>one Church,</hi> (or ſhould be ſo at leaſtwiſe) ſo we ſhould all ſtand upon <hi>one ground,</hi> be built upon <hi>one foundation,</hi> and ſteer our courſe towards the land of Pro<g ref="char:EOLhyphen"/>miſe in <hi>one</hi> and the ſame <hi>bot<g ref="char:EOLhyphen"/>tome.</hi>
+            </p>
+            <p n="3">3. There is no other Catechiſm can be more exact and compleat, more beneficial and uſeful, then this of our <hi>Church,</hi> which will ap<g ref="char:EOLhyphen"/>pear by conſidering the order, and <hi>general heads</hi> thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> And firſt to prevent the gene<g ref="char:EOLhyphen"/>ral objection, which is made both againſt this and all other <hi>Cate<g ref="char:EOLhyphen"/>chiſms;</hi> 'tis confeſſed, That the holy Word of God, or the inſpired writings of the Prophets, and Apoſtles, are the ground and foundation all holy and true Re<g ref="char:EOLhyphen"/>ligion is built upon: Epheſ. 2.20. <hi>We are built upon the
+<pb facs="tcp:100650:6"/>foundation of the Prophets and Apoſtles, &amp;c.</hi>
+            </p>
+            <p>But becauſe the holy Scriptures are both <hi>ſpacious</hi> and <hi>difficult,</hi> con<g ref="char:EOLhyphen"/>taining many things, ſome more, ſome leſs neceſſary to ſalvation, and theſe both intermixedly and diverſly delivered, here and there reſperſed in ſeveral books and chapters, and expreſſed both by way of <hi>command</hi> and <hi>counſel,</hi> of <hi>exhortation</hi> and <hi>admonition,</hi> of <hi>promiſe</hi> and <hi>threatning,</hi> of <hi>hiſtory</hi> and <hi>example,</hi> under many <hi>Meta<g ref="char:EOLhyphen"/>phors, Types,</hi> and <hi>Allegories,</hi> which render them both hard to be underſtood aright, and as hard to be rightly diſtinguiſhed, and re<g ref="char:EOLhyphen"/>duc't to their ſeveral heads, for the more clear underſtanding, and firm memory thereof; therefore it ſeemed good to the wiſdome of the <hi>ancient Fathers</hi> of the Church, to reduce the pith, ſum, and mar<g ref="char:EOLhyphen"/>row of all ſaving Doctrine con<g ref="char:EOLhyphen"/>tained
+<pb facs="tcp:100650:6"/>in the Scriptures under ſo many ſeveral waies of expreſſion, to four ſeveral heads, <hi>viz.</hi> 1. <hi>The Apoſtles Creed.</hi> 2. <hi>The</hi> 10. <hi>Com<g ref="char:EOLhyphen"/>mandements.</hi> 3. <hi>The Lords Prayer.</hi> 4. <hi>The Doctrine of the Sacraments.</hi> To one of which 4. general heads, all that the whole book of God contains, abſolutely neceſſary to ſalvation, is reducible: For,</p>
+            <p n="1">1. All that we are bound to <hi>be<g ref="char:EOLhyphen"/>lieve,</hi> in general and in the groſs, is ſum'd up in twelve Articles by the Apoſtles, or Apoſtolical men, and is commonly known by the name of <hi>The Apoſtles Creed,</hi> and that's <hi>the object of our faith,</hi> and a little <hi>breviary</hi> or ſum of the <hi>Go<g ref="char:EOLhyphen"/>ſpel.</hi>
+            </p>
+            <p n="2">2. All that we are bound to <hi>pra<g ref="char:EOLhyphen"/>ctiſe</hi> and <hi>obey,</hi> is commanded in the 10. <hi>Commandements,</hi> and that's <hi>the Rule of our Life,</hi> and the <hi>Epi<g ref="char:EOLhyphen"/>tome</hi> of the <hi>Law.</hi>
+            </p>
+            <p>And theſe are the two parts of
+<pb facs="tcp:100650:7"/>holy Religion, <hi>Faith</hi> and <hi>Obedi<g ref="char:EOLhyphen"/>ence; Faith,</hi> which the <hi>Goſpel</hi> re<g ref="char:EOLhyphen"/>quires; and <hi>Obedience,</hi> which the <hi>Law</hi> exacts: which <hi>Obedience</hi> is alſo called <hi>Charity,</hi> or <hi>Love; For Love is the fulfilling of the Law:</hi> 
+               <note place="margin">Rom. 12.10.</note> therefore S. <hi>Paul</hi> reduceth all Re<g ref="char:EOLhyphen"/>ligion to <hi>Faith</hi> and <hi>Love,</hi> Gal. 5.6. 2 Tim. 1.13.</p>
+            <p>But becauſe we can neither <hi>be<g ref="char:EOLhyphen"/>lieve</hi> nor <hi>do</hi> any thing as we ought,
+<note place="margin">Phil. 2.13.</note> without the Divine Grace aſſiſting us thereunto; therefore God hath ordained and comman<g ref="char:EOLhyphen"/>ded unto us, the uſe of <hi>Prayer,</hi> and of the <hi>Sacraments,</hi> as the means and conveyances of his Graces into our ſouls, to enable us both to <hi>believe</hi> in him, and alſo to <hi>love</hi> and <hi>obey</hi> him in a manner holy and acceptable unto him.</p>
+            <p n="3">3. Therefore the next general head of Catechiſm, is <hi>the Lords Prayer,</hi> as the ſum, pattern, and perfection of all Prayer and De<g ref="char:EOLhyphen"/>votion.</p>
+            <pb facs="tcp:100650:7"/>
+            <p n="4">4. And the fourth and laſt head, is the Doctrine and uſe of the <hi>Sacraments:</hi> the ground and reaſon whereof is briefly this: All thoſe things which concern the good of our <hi>ſouls,</hi> are accor<g ref="char:EOLhyphen"/>ding to the nature of the ſoul, <hi>ſpi<g ref="char:EOLhyphen"/>ritual, divine,</hi> and <hi>inviſible,</hi> and ſo are not eaſily conceived by our frail underſtandings, which appre<g ref="char:EOLhyphen"/>hend not, but by organs of ſenſe; therefore God hath been pleaſed mercifully to ordain certain out<g ref="char:EOLhyphen"/>ward <hi>viſible elements,</hi> to ſignifie and ſeal his inward <hi>inviſible graces</hi> unto our ſouls, and to be pledges to aſſure us thereof: and theſe are <hi>Baptiſm,</hi> and <hi>the Lords Supper.</hi>
+            </p>
+            <p>And upon theſe four generall heads, all the ſeverall queſtions in the Catechiſm beſides, do de<g ref="char:EOLhyphen"/>pend; either 1. By way of in<g ref="char:EOLhyphen"/>troduction, to put us in minde of our obligation hereunto by <hi>ſo<g ref="char:EOLhyphen"/>lemn vow</hi> and <hi>promiſe,</hi> when we
+<pb facs="tcp:100650:8"/>were <hi>Baptized:</hi> Or 2. for the connecting and joyning of theſe generals together by a fit method for memories ſake: Or 3. for the more clear and full under<g ref="char:EOLhyphen"/>ſtanding of each of them; as will further appear in the ſeveral Que<g ref="char:EOLhyphen"/>ſtions and Anſwers enſuing.</p>
+            <p>
+               <hi>Open mine eyes O Lord, and enlighten my minde, that I may both ſee and rightly underſtand the wondrous things of thy Law, and carefully frame my heart, and all the actions of my life thereafter through Jeſus Chriſt our Lord,</hi> Amen.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="1" facs="tcp:100650:8"/>THE PRINCIPLES OF Holy Chriſtian Religion: OR The <hi>Catechiſm</hi> of the Church of <hi>England</hi> paraphraſed.</head>
+         <div type="introduction">
+            <head>The Introduction.</head>
+            <p>1. <hi>Queſtion.</hi>
+            </p>
+            <p>BEcauſe your <hi>Name</hi> is the badge and cognizance of that holy Chriſtian Religion you profeſs, therefore 'tis firſt demanded of you</p>
+            <p>
+               <hi>What is your name?</hi>
+            </p>
+            <p>Anſwer.</p>
+            <p>
+               <hi>R. T. W.</hi>
+            </p>
+            <p>2. <hi>Queſtion.</hi>
+            </p>
+            <p>And ſince together with your
+<pb n="2" facs="tcp:100650:9"/>
+               <hi>Name</hi> you received Chriſtianity, 'tis therefore ſecondly askt.</p>
+            <p>
+               <hi>Who gave you this name?</hi>
+            </p>
+            <p>Anſwer.</p>
+            <p>
+               <note n="*" place="margin">Such as ſcru<g ref="char:EOLhyphen"/>ple at the name, and uſe of <hi>Godfathers,</hi> may remem<g ref="char:EOLhyphen"/>ber, 1. That it is the univerſal practiſe of the Church, againſt which no modeſt man will preſume to argue: ſince <hi>Church Cuſtomes</hi> are of ſufficient authority with S. <hi>Paul</hi> 1 Cor. 11.6. That 2. it is not without <hi>example</hi> in holy Scripture, Iſa. 8.2, 3. Luk. 1. from verſ. 57. to 64. 3. That <hi>Infants</hi> cannot come themſelves to <hi>Baptiſm,</hi> nor therein anſwer for themſelves. 4. That their <hi>parents</hi> may die before they come to years, or elſe may be ſeduc'd into <hi>Hereſie,</hi> or <hi>Schiſm.</hi> 5. That hereby a <hi>ſpiritual kindred</hi> amongſt Chriſtian neigh<g ref="char:EOLhyphen"/>bours is contracted, and <hi>Charity,</hi> which is the <hi>life of Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> is maintained and increaſed: And for the name of <hi>God<g ref="char:EOLhyphen"/>fathers,</hi> 'tis more proper then that of <hi>Witneſſes</hi> or <hi>Sureties,</hi> if we conſider either 1. Their office, which is both to offer up unto <hi>God</hi> the party baptized, and devote him to his ſervice, and alſo to profeſs Repentance, Faith, and Obedience unto <hi>God</hi> in their names. Or, 2. The benefit they receive by Baptiſm, which is to be made <hi>the children of God,</hi> in which reſpect chiefly their ſureties are called <hi>Godfathers.</hi>
+               </note> 
+               <hi>My Godfathers and Godmothers in my Baptiſm, wherein I was made</hi> a <hi>Chriſtian,</hi> and therefore it is called my <hi>Chriſtian name.</hi>
+            </p>
+            <p>3. <hi>Queſtion.</hi>
+            </p>
+            <p>What happineſs or benefit is it un<g ref="char:EOLhyphen"/>to you to be baptiz'd and become Chriſtian?</p>
+            <pb n="3" facs="tcp:100650:9"/>
+            <p>Anſwer.</p>
+            <p>
+               <hi>I am thereby made</hi> 1. <hi>A member of Chriſt,</hi> 2. <hi>A childe of God,</hi> 3. <hi>An heir of the Kingdome of heaven:</hi> or more fully thus:</p>
+            <p>Whereas I was <hi>born in ſin,</hi> 
+               <note place="margin">Pſal. 51.5. Epheſ. 2.3. Rom. 5.12. Joh. 3.5. 1 Cor. 12.3. Rom. 8.7. Gal. 4.7. Act. 22.16.</note> and am by nature the <hi>childe of wrath,</hi> and heir of <hi>Death,</hi> and <hi>Hell;</hi> by being <hi>born again</hi> of <hi>water,</hi> and of the <hi>Holy Ghoſt</hi> in Baptiſm: I am not only 1. ingraffed into <hi>Chriſt</hi>'s Myſtical body, the <hi>Church;</hi> but am alſo 2. re<g ref="char:EOLhyphen"/>conciled unto <hi>God</hi> through <hi>Chriſt,</hi> and made his childe by <hi>Adoption,</hi> and <hi>Grace;</hi> and not only a <hi>childe,</hi> but al<g ref="char:EOLhyphen"/>ſo 3. an <hi>Heir,</hi> even an <hi>Heir of God,</hi> and <hi>joynt-heir</hi> with <hi>Chriſt</hi> of the King<g ref="char:EOLhyphen"/>dome of heaven.</p>
+            <p>4. <hi>Queſt.</hi>
+            </p>
+            <p>Are theſe great Bleſſings confer'd upon you through Baptiſm, abſo<g ref="char:EOLhyphen"/>lutely, or upon condition only?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Upon condition, <note place="margin">Mark 16.16. Act. 8.37. &amp; 2.38.</note> that I do obſerve and keep that promiſe and vow which was made in my name, being bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>5. <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What did your Godfathers and
+<pb n="4" facs="tcp:100650:10"/>Godmothers then</hi> promiſe and vow <hi>for you?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>They did promiſe and how three things in my name:</hi> 1 <hi>That I ſhould forſake the Devil and all his works, <note place="margin">Luk. 1.74, 75.</note> the pomps, and banities of this wic<g ref="char:EOLhyphen"/>ked world, and all the ſinfull luſts of the fleſh.</hi> 2 <hi>That I ſhould believe all the Articles of the Chriſtian faith.</hi> 3 <hi>That I ſhould keep Gods holy will and commandements, and walk in the ſame all the days of my life.</hi>
+            </p>
+            <p>6. <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>Doeſt not thou think that thou art bound</hi> both <hi>to believe, and do what they have promiſed for thee?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Yes verily</hi> I do beleeve it to be my bounden duty: <hi>and by Gods help I will</hi> perform the ſame: <hi>And I hearti<g ref="char:EOLhyphen"/>ly thank our heavenly Father, <note place="margin">Act. 3.19.</note> who</hi> through Baptiſm <hi>hath called me to this ſtate of ſalvation through Ieſus Chriſt our Saviour. And I pray God to give me his grace, that I may conti<g ref="char:EOLhyphen"/>nue in the ſame to my lives end:</hi> carefully obſerving this vow of my Baptiſm, which is the general duty of every Chriſtian.</p>
+            <pb n="5" facs="tcp:100650:10"/>
+            <p>7. <hi>Queſt.</hi>
+            </p>
+            <p>What is the meaning of the firſt part of your Chriſtian duty, or vow in Baptiſm?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>By promiſing to <hi>forſake the Devil and all &amp;c.</hi> I do oblige my ſelf to reſiſt, <note place="margin">Eph. 6.10, &amp;c. 1 Tim. 1.18, 19. &amp; 6.12. Joh. 8.34.</note> and manfully to <hi>fight</hi> under the <hi>ban<g ref="char:EOLhyphen"/>ner of Chriſt</hi> againſt all temptations, whether ariſing from the <hi>Devil,</hi> the <hi>world,</hi> or the <hi>fleſh,</hi> and not ſuffer my ſelf to be <hi>vanquiſhed</hi> by them, and be <hi>led captive</hi> to the ſervice of ſin.</p>
+            <p>And this is that which is alſo call'd <hi>Repentance from dead works,</hi> Heb. 6.1.
+<note place="margin">Act. 26.18. Eph. 4.22, &amp;c. 1 Pet. 2.1, &amp;c. Heb. 12.1, 2.</note> where
+'tis remembred as the firſt of the <hi>principles</hi> of the <hi>Doctrines of Chriſt,</hi> becauſe I muſt forſake the ſervice of ſin, and all temptations leading thereunto, before I can truly ſerve God, or receive any benefit by the means of Grace.</p>
+            <p>
+               <hi>O God which art the author of peace, and lover of concord, in knowledge of whom ſtandeth
+<pb n="6" facs="tcp:100650:11"/>our eternal life, whoſe ſervice is perfect freedome; defend me thy humble ſervant in all aſſaults of my ghoſtly enemies, the world, the fleſh and the Devil: that I ſurely truſting in thy defence, may not fear the power of any ſuch adverſaries, through the might of Jeſus Chriſt our Lord.</hi>
+            </p>
+         </div>
+         <div n="1" type="chapter">
+            <pb n="7" facs="tcp:100650:11"/>
+            <head>CHAP. I. <hi>Of the Creed.</hi>
+            </head>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>WHat is the ſecond part of that promiſe you made when you were baptiz'd?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>To believe all the Articles of the Chriſtian faith:</hi> that is, <note place="margin">Act. 1.1.</note> all thoſe chief heads of Doctrine which Chriſt com<g ref="char:EOLhyphen"/>manded and taught, as alſo what himſelf did for our example, and ſuf<g ref="char:EOLhyphen"/>fered for our ſalvation.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the ſum of them?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The Apoſtles Creed.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What mean you by a <hi>Creed?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>A <hi>Creed</hi> is as much as <hi>Belief:</hi> And it is a brief Summary of all the chief heads of Religion which we are bound to believe as neceſſary to everlaſting ſalvation.</p>
+            <pb n="8" facs="tcp:100650:12"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Why do you call it the <hi>Apoſtles Creed?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Becauſe 1. it contains the ſum of that Doctrine which the <hi>Apoſtles</hi> preached. 2. It was compiled either by the <hi>Apoſtles</hi> themſelves, or <hi>Apoſto<g ref="char:EOLhyphen"/>lical</hi> men: and it conſiſts alſo of 12. Articles according the number of the 12. Apoſtles.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>Rehearſe the Articles of your Be<g ref="char:EOLhyphen"/>lief</hi> diſtinctly.</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <hi>I believe in God the Father Al<g ref="char:EOLhyphen"/>mighty, maker of heaven and earth:</hi>
+            </p>
+            <p n="2">2. <hi>And in Ieſus Chriſt his onely Son our Lord,</hi>
+            </p>
+            <p n="3">3. <hi>Which was conceived by the holy Ghoſt, born of the Virgin Mary,</hi>
+            </p>
+            <p n="4">4. <hi>Suffered under Pontius Pilate, was crucified, dead and buried,</hi>
+            </p>
+            <p n="5">5. <hi>He deſcended into hell, the third day he roſe again from the dead,</hi>
+            </p>
+            <p n="6">6. <hi>He aſcended into heaven, and ſitteth on the right hand of God the Father Almighty:</hi>
+            </p>
+            <pb n="9" facs="tcp:100650:12"/>
+            <p n="7">7. <hi>From thence he ſhall come to judge the quick and the dead.</hi>
+            </p>
+            <p n="8">8. <hi>I believe in the holy Ghoſt,</hi>
+            </p>
+            <p n="9">9. <hi>The holy Catholick Church, the Communion of Saints,</hi>
+            </p>
+            <p n="10">10. <hi>The forgiveneſs of ſins,</hi>
+            </p>
+            <p n="11">11. <hi>The Reſurrection of the body,</hi>
+            </p>
+            <p n="12">12. <hi>And the life everlaſting, Amen.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What do you chiefly learn to believe in theſe Articles?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Hence <hi>I learn to believe in</hi> that on<g ref="char:EOLhyphen"/>ly true God, who being one in <hi>eſſence,</hi>
+               <note place="margin">Deut, 6.4. Mar. 12.29. 1 Joh. 5.7.</note> is three in <hi>ſubſiſtence:</hi>
+            </p>
+            <p n="1">1. <hi>God the Father, <note place="margin">Mal. 2.10. 1 Cor. 8.6.</note> who hath made me and all the world:</hi>
+            </p>
+            <p n="2">2. <hi>God the Son, <note place="margin">1 Tim. 2.5. Rev. 5.9.</note> who hath redeemed me and all mankinde:</hi>
+            </p>
+            <p n="3">3. <hi>God the Holy Ghoſt, <note place="margin">Epheſ. 4.30. Rom. 15.16.</note> who hath ſanctified me and all the elect people of God:</hi> which divides this <hi>Creed</hi> into <hi>three general parts,</hi> according to the number of theſe <hi>three Perſons</hi> of the <hi>Godhead.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What does the <hi>firſt</hi> general part of of your Creed concern?</p>
+            <pb n="10" facs="tcp:100650:13"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>God the Father,</hi> 
+               <note place="margin">
+                  <hi>Artic.</hi> 1. Gen. 1.1. Col. 1.16. Heb. 11.3. Pſal. 36.5, 6. Mat. 6.26 &amp; 10.29, 30.</note> who by his <hi>Almigh<g ref="char:EOLhyphen"/>tineſs</hi> of nothing hath <hi>made</hi> all things, both the <hi>Heavens</hi> and the <hi>Earth,</hi> and all that is contained therein: and by the ſame his power does ſtill <hi>ſuſtain</hi> and <hi>govern</hi> all things: which is the ſum, and meaning of the firſt Ar<g ref="char:EOLhyphen"/>ticle.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What uſe are you to make of this?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>That I am therefore bound to ſerve, <note place="margin">Mal. 1.6. Dan. 5.23. Rev. 4 11. &amp; 5.12, 13. Deut. 32.18. Act. 17.24, 25, 26, 27, 28. Deut. 10.12, 13, 14</note> and worſhip him, and obey his Lawes, as being the great <hi>Lord</hi> and <hi>Father of all,</hi> from whom I have received all that I <hi>am,</hi> and all that I have in the world.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do's the <hi>ſecond</hi> general part of your Creed concern?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>God the Son,</hi> 
+               <note place="margin">Gal. 3.13. Luk. 1.68, 69, 74.</note> and the <hi>Redemption</hi> of mankinde by him from ſin and death.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>By what means and titles is he known?</p>
+            <pb n="11" facs="tcp:100650:13"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>He is firſt called <hi>Jeſus</hi> which ſignifies <hi>Salvation:</hi> 2. <hi>Chriſt,</hi> 
+               <note place="margin">
+                  <hi>Artic.</hi> 2. Mat. 1.21. Act 10.38. Rev. 1.5. Heb. 6.20. &amp; 12.24. Act. 3.22, 23. Luk. 1.32. Joh. 8.56, 57, 58. 1 Cor. 6.20. Act. 2.3. Mat. 28.18. 1 Cor. 8.6.</note> which ſignifies <hi>Anointed,</hi> and denotes his threefold office of <hi>King, Prieſt,</hi> and <hi>Prophet:</hi> 3. <hi>The only Son of God, viz.</hi> by eter<g ref="char:EOLhyphen"/>nal generation: 4. <hi>Our Lord,</hi> in that he hath <hi>bought</hi> and <hi>redeemed</hi> us, and hath the ſole <hi>power</hi> over us.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do you beleeve that he <hi>did</hi> and <hi>ſuffered</hi> to redeem you?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do believe that he came down from heaven, <note place="margin">
+                  <hi>Artic.</hi> 3. Joh. 16.28. Luk. 1.35, 31. Gal. 4.4. Luk. 2.7. Joh. 8.46. Tit. 2.11, 12.</note> and was by the power of the <hi>Holy Ghoſt</hi> after a wonderful manner <hi>conceived</hi> and made <hi>man,</hi> in the ſanctified Womb of the bleſſed <hi>Virgin Mary;</hi> That he was <hi>born</hi> of her; that he <hi>lived</hi> a moſt holy life, and by his <hi>doctrine</hi> and <hi>example</hi> gui<g ref="char:EOLhyphen"/>ded and directed us in the way to heaven.</p>
+            <p>That he <hi>ſuffered</hi> for our ſins many grievous and bitter things <hi>under Pon<g ref="char:EOLhyphen"/>tius Pilate,</hi> the Governor of <hi>Judea;</hi> 
+               <note place="margin">
+                  <hi>Artic.</hi> 4. 1 Pet. 2.21. &amp; 3.18. &amp; 4.1. Mat. 27.26.</note> that he was by his command <hi>crucified,</hi> or the ſeveral parts of his body were ſtretched out upon the croſſe
+<pb n="12" facs="tcp:100650:14"/>as upon a rack, and nailed thereunto, to his unſpeakable torment, untill through the violence of his pangs he gave up the ghoſt, <note place="margin">Mat. 27.50, 60 Phil. 2.8. 1 Cor. 15.3, 4.</note> and being <hi>dead,</hi> was alſo <hi>buried,</hi> to manifeſt the reali<g ref="char:EOLhyphen"/>ty, and truth of his death.</p>
+            <p>That <hi>he deſcended into hell,</hi> 
+               <note place="margin">
+                  <hi>Artic.</hi> 5. Epheſ. 4.10. Col. 2.15. Heb. 2.14. Rev. 1.18. &amp; 20.14. Pſal. 16.16. Act. 10.40. &amp; 5.30. Rom. 14.9. Col. 1.18.</note> vanquiſh<g ref="char:EOLhyphen"/>ing both the firſt and ſecond death, and him who had the power of death, that is the Devil, and all the ſpirits, and powers of darkneſs. That <hi>he roſe again the third day,</hi> thereby declaring his victory over death, and over all our ghoſtly enemies.</p>
+            <p>That having accompliſhed the great work of our Redemption, <note place="margin">
+                  <hi>Artic.</hi> 6. Luk. 24.51. Act. 1.9. Eph. 4.8. &amp;c. Heb. 6.20. Mark 16.19. Col 3.1. Phil. 2.9, &amp;c. Rom. 8.34. &amp; 7 27.</note> he again <hi>aſcended into heaven,</hi> from whence he came down: That <hi>he ſit<g ref="char:EOLhyphen"/>teth at the right hand of God:</hi> reign<g ref="char:EOLhyphen"/>eth as <hi>King</hi> over all, and intercedes for all them that call upon God in his name</p>
+            <p>And that <hi>he ſhall come again at the laſt day to judge the quick and the dead,</hi>
+               <note place="margin">
+                  <hi>Artic.</hi> 7. Mat. 25.31, &amp;c. 1 Theſſ. 4.16, 17. 2 Tim. 4.1. Rev. 1.7. Pſal. 62.12. Mat. 16.27. Rom. 2.6. Rev. 22 22.</note> and render to all men according to their works.</p>
+            <pb n="13" facs="tcp:100650:14"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What uſe are you to make of this ſecond part of your Creed?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>That I therefore put my truſt on<g ref="char:EOLhyphen"/>ly in the <hi>mercies</hi> of God through the <hi>merits</hi> of <hi>Chriſt,</hi> 
+               <note place="margin">Pſ. 2.12. &amp; 34.8. &amp; 44.6. Rom. 8.32. Act. 2.38. &amp; 3.19.27.30. Mat. 9.13. Tit. 2.14. 1 Cor. 15.3. Mat. 11.29. Joh. 15.10. 1 Pet. 2.21. Col. 3.1. Luk 21.34, &amp;c. Tit. 2.11, 12, 13. Mat. 24.42 &amp;c.</note> for whatever con<g ref="char:EOLhyphen"/>cerns the good either of body or ſoul. That I repent me truly of all my <hi>ſins,</hi> which were the cauſe of my <hi>Savi<g ref="char:EOLhyphen"/>ours ſufferings.</hi> That I obey his <hi>Do<g ref="char:EOLhyphen"/>ctrine,</hi> and follow his <hi>example,</hi> as the <hi>way</hi> to <hi>heaven.</hi> That I <hi>ſeek</hi> thoſe things which <hi>are above,</hi> where <hi>Chriſt ſitteth</hi> on the right hand of <hi>God:</hi> and by <hi>perſeverance</hi> in all <hi>good works,</hi> wait for the coming of my Lord to Judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What does the <hi>third</hi> general part of your Creed concern?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>God the Holy Ghoſt,</hi> 
+               <note place="margin">
+                  <hi>Artic.</hi> 8. Rom. 15.16. 2 Theſſ. 2.13. 1 Cor. 12.4, 7, &amp;c. Gal. 5.22. &amp;c</note> and his <hi>ſancti<g ref="char:EOLhyphen"/>fication</hi> of me, and of all Gods people, by his Gifts and Graces, to the ſacred ſervice of God, and of our Saviour <hi>Jeſus Chriſt.</hi>
+            </p>
+            <pb n="14" facs="tcp:100650:15"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>In whom is this work of <hi>ſanctifica<g ref="char:EOLhyphen"/>tion</hi> wrought?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>In all the faithful and elect people of God, <note place="margin">
+                  <hi>Artic.</hi> 9. 1 Tim. 3.15. Heb. 2.12. Epheſ. 5.27. Pſal. 2.8. Mat. 28. <hi>ult.</hi>
+               </note> cal'd <hi>the Holy Catholique Church: Holy,</hi> becauſe ſanctified by the Holy Ghoſt; and <hi>Catholique,</hi> that is, univerſal, diffuſed and ſpread over the face of the whole earth.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>How is this Sanctification wrought by the Holy Ghoſt upon the <hi>Church,</hi> or people of Chriſt?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>It is begun in this life by <hi>the com<g ref="char:EOLhyphen"/>munion of Saints,</hi> and <hi>remiſſion of ſins:</hi> and it ſhall be perfected hereafter at the <hi>Reſurrection of the Body,</hi> in <hi>life everlaſting.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do you mean by the <hi>commu<g ref="char:EOLhyphen"/>nion of Saints?</hi> 
+               <note place="margin">Joh. 17.21. Epheſ. 4.13. &amp; 6.18. Phil. 1.27. &amp; 2.4. Rom. 16.16, 17 1 Joh. 1.3. 1 Pet. 1.22.</note>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do profeſs to believe, that all true members of Chriſts <hi>holy Catholick Church,</hi> by the ſecret impreſſions of the <hi>Holy Ghoſt,</hi> have both <hi>union</hi> and <hi>communion</hi> with <hi>Chriſt,</hi> who is our
+<pb n="15" facs="tcp:100650:15"/>
+               <hi>head,</hi> by <hi>faith,</hi> and alſo one with ano<g ref="char:EOLhyphen"/>ther the <hi>members</hi> of <hi>Chriſt,</hi> by <hi>cha<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do you mean by <hi>Remiſſion of ſins?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do believe that there is both for me and for all other good Chriſtians, <note place="margin">
+                  <hi>Artic.</hi> 10. Act. 2.38. &amp; 13.38. Joh. 20.23. Mark 16.16. Joh. 3.16. 2 Cor. 5.21. 1 Joh. 1.7, &amp;c.</note> pardon and forgiveneſs of all our ſins to be obtained by the <hi>mercies</hi> of <hi>God,</hi> through the <hi>merits</hi> of <hi>Chriſt</hi> our Sa<g ref="char:EOLhyphen"/>viour: we ſincerely performing the conditions of a lively <hi>faith,</hi> and true <hi>Repentance</hi> thereunto required.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do you mean by <hi>the Reſur<g ref="char:EOLhyphen"/>rection of the body?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do believe that this <hi>body</hi> of mine, <note place="margin">
+                  <hi>Artic.</hi> 11. 1 Cor. 15.29, &amp;c. Joh. 5.29. &amp; 6.39. &amp; 11.24, 25. Mat. 25.16, &amp;c</note> and the <hi>bodies</hi> of all men, though they be diſſolved by death into duſt and aſhes, yet ſhall be again <hi>raiſed</hi> out of the duſt of death, and rejoyned to our immortal <hi>ſouls,</hi> that ſo we may re<g ref="char:EOLhyphen"/>ceive according to our deeds done in the <hi>body,</hi> whether they be <hi>good,</hi> of whe<g ref="char:EOLhyphen"/>ther they be <hi>evil.</hi>
+            </p>
+            <pb n="16" facs="tcp:100650:16"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What do you mean by <hi>life ever<g ref="char:EOLhyphen"/>laſting?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do believe that when we ſhall be raiſed up at the laſt day, <note place="margin">
+                  <hi>Artic.</hi> 12.</note> we ſhall never <hi>die</hi> any more, <note place="margin">1 Theſſ. 4.17. Rev. 21.4. Joh. 5.29.</note> but <hi>live</hi> for ever, either in <hi>endleſſe joyes,</hi> if we have done <hi>well,</hi> or in <hi>endleſſe torments,</hi> if our deeds have been <hi>evill.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What uſe are you to make of this part of your Creed?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>That I do not <hi>grieve Gods holy Spirit</hi> by my ſins, <note place="margin">Epheſ. 4.3. 1 Theſſ. 5.19. Heb. 10.24, 25 Gal. 5.6. 1 Cor. 13.13. 1 Joh. 3.23. &amp; 1.7. &amp; 2.1, 2. Col. 3.3, 4, &amp;c.</note> nor hinder his work of <hi>Sanctification</hi> upon my ſoul, by reſiſting his <hi>good moti<g ref="char:EOLhyphen"/>ons,</hi> and incitements to holineſſe of life. That I continue a faith<g ref="char:EOLhyphen"/>full, and true <hi>Member</hi> of Chriſts Myſtical Body, the <hi>Church,</hi> both by a true and lively <hi>faith</hi> in <hi>Chriſt,</hi> and an univerſall unfeigned <hi>charity</hi> towards all <hi>Chriſtians.</hi> That I truſt not in my own <hi>righteouſneſs,</hi> but relie on the <hi>merits</hi> of <hi>Chriſt</hi> only
+<pb n="17" facs="tcp:100650:16"/>for the pardon of my ſins, truly <hi>repenting</hi> of all my miſdoings, and for ever abjuring and forſaking the ſame: Denying <hi>ungodlineſſe,</hi>
+               <note place="margin">Tit. 2.11, &amp;c.</note> and <hi>worldly luſts,</hi> and <hi>living ſoberly, righ<g ref="char:EOLhyphen"/>teouſly and godly in this preſent world,</hi> 
+               <note place="margin">Phil. 3.20.</note> as looking for the <hi>Reſurrection</hi> of the dead, and the <hi>life</hi> of the world to come.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Why doe you conclude with <hi>A<g ref="char:EOLhyphen"/>men?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do hereby acknowledge, and ra<g ref="char:EOLhyphen"/>tifie with my ſtedfaſt belief the un<g ref="char:EOLhyphen"/>doubted <hi>Truth,</hi> and <hi>certainty</hi> of this <hi>Creed</hi> in general, and of every <hi>Arti<g ref="char:EOLhyphen"/>cle</hi> thereof in particular, ſecretly wiſhing, and humbly praying, that through the ſtedfaſtneſſe of this <hi>faith</hi> I may evermore be defended from all adverſity, and be preſerved in the way of eternal ſalvation, even from God the <hi>Father,</hi> through God the <hi>Son,</hi> and by God the <hi>Holy Ghoſt; to whom be glory for ever, Amen.</hi>
+            </p>
+            <pb n="18" facs="tcp:100650:17"/>
+            <p>
+               <hi>I Believe, Lord help my unbe<g ref="char:EOLhyphen"/>lief: and evermore preſerve thy ſervant in the unity of the true faith: Grant me with the heart to believe unto righteouſ<g ref="char:EOLhyphen"/>neſs of life, that I may in the end obtain the end of my faith, which is the ſalvation of my ſoul, through Jeſus Chriſt our Lord. Amen.</hi>
+            </p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="19" facs="tcp:100650:17"/>
+            <head>CHAP. II. <hi>Of the Commandements.</hi>
+            </head>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>WHat is the <hi>third</hi> part of your vow in <hi>Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>To keep Gods holy will and Comman<g ref="char:EOLhyphen"/>dements, <note place="margin">Luk. 1.75. Levit. 18.5. Ezek. 20.11.</note> and to walk in the ſame all the daies of my life:</hi> and it is but juſt, and reaſonable that I ſhould do what God hath <hi>commanded</hi> me in this life;
+<note place="margin">Mat. 19.17. Luk. 10.25, 26. Rev. 22.24.</note> if I will obtain what he hath <hi>promiſed</hi> me in the life to come: <hi>If thou wilt enter into life, keep the Commandements.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What are theſe <hi>Commandements</hi> God hath <hi>enjoyned,</hi> and you have <hi>pro<g ref="char:EOLhyphen"/>miſed</hi> to obſerve and keep?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>The ſame which God ſpake in the</hi> 20. <hi>chapter of Exodus, ſaying, I am the Lord thy God, which brought thee out of the land of Egypt, out of the houſe of bondage:</hi> which is the Pre<g ref="char:EOLhyphen"/>face,
+<pb n="20" facs="tcp:100650:18"/>ſhewing <hi>Gods right</hi> to <hi>com<g ref="char:EOLhyphen"/>mand,</hi> 
+               <note place="margin">Lev. 18.5. Pſ. 105.—95. Iſa. 42.8. Deut. 27.9, 10. &amp; 30.20. Joh. 14.15. 1 Joh. 2.4, 5.</note> and <hi>our obligation</hi> to <hi>obey.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Are the <hi>Commandements</hi> of God under the Goſpel, <hi>the ſame</hi> they were under the Law?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>They are the ſame for <hi>ſubſtance,</hi> 
+               <note place="margin">Mat. 5.17, 18, 19 Mal. 3.6. Jam. 1.17. Luk. 16.17. Jam. 2.8.</note> for God is the ſame God for ever, and changeth not: they differ only in <hi>ceremonies,</hi> and the <hi>manner</hi> of diſ<g ref="char:EOLhyphen"/>penſation.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>In what <hi>particular</hi> reſpects do they differ?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Under the <hi>Law</hi> the commands of God were more clog'd with <hi>ceremonies,</hi>
+               <note place="margin">Col. 2.16, 17. Exod. 34.33. 2 Cor. 3.13, 14, 15, 16.</note> more <hi>dark</hi> and <hi>obſcure,</hi> and not ſo fully underſtood, as to the ſpirituall ſenſe and meaning of them. But as <hi>Chriſt</hi> under the <hi>Goſpel</hi> hath delivered them,</p>
+            <p n="1">1. <note place="margin">Mat. 11.19. &amp; 23.4. Act. 15.10. Gal. 4.3, 4, 5. Heb. 9.10.</note> They are freed from the bur<g ref="char:EOLhyphen"/>den of manifold <hi>ceremonial rites,</hi> which were <hi>figurative</hi> and <hi>typical.</hi>
+            </p>
+            <p n="2">2. They are more <hi>clear,</hi> perſpicu<g ref="char:EOLhyphen"/>ous and intelligible, <note place="margin">Mat. 5.21, 22, 27, 28. Ioh. 6.63.</note> and this not ſo, much in the <hi>letter,</hi> as in the <hi>ſpirit</hi> and
+<pb n="21" facs="tcp:100650:18"/>life of the Law, <note place="margin">Rom. 7.6. Heb. 4.12.</note> as it reacheth to the very <hi>heart,</hi> and the thoughts and de<g ref="char:EOLhyphen"/>ſires thereof.</p>
+            <p n="3">3. <note place="margin">2 Cor. 1.20. &amp; 6.18. &amp; 7.1. Heb. 11.40. &amp; 8 6. 1 Tim. 4.8. Heb. 4.8, 9.</note> The promiſes under the <hi>Goſpel</hi> to thoſe that ſhall be obedient to Gods commands, are <hi>greater</hi> and more full, or at leaſt more <hi>clear</hi> then under the <hi>Law.</hi>
+            </p>
+            <p n="4">4. <note place="margin">Ier. 31.31. &amp; Heb. 8. Ioel 2.28. &amp; Act. 2. Ioh. 1.16, 17. Iam. 4.6.</note> More grace is communicated to us <hi>Chriſtians</hi> under the <hi>Goſpel</hi> for the obſervation of Gods commands, then was given to the <hi>Jewes</hi> under the <hi>Law.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>How many Commandements are there?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The words God himſelf delivered on Mount Sinai conſiſt of <hi>
+                  <hi>ten</hi> Com<g ref="char:EOLhyphen"/>mandements:</hi> 
+               <note place="margin">Deut. 5.22. Mat. 22.40. Rom. 13.9, 10.</note> and the text ſaith <hi>he ad<g ref="char:EOLhyphen"/>ded no more:</hi> Becauſe all that is through the whole Word of God en<g ref="char:EOLhyphen"/>joyned beſides, may in ſome reſpects or other be reduced to one of theſe <hi>ten words</hi> of command.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What general rules are to be ob<g ref="char:EOLhyphen"/>ſerved to underſtand the full meaning of each Commandement?</p>
+            <pb n="22" facs="tcp:100650:19"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Two moſt eſpecially. 1. That where any duty is <hi>commanded,</hi> the contrary thereunto is <hi>forbidden:</hi> and where any ſin is <hi>forbidden,</hi> the contrary duty is <hi>commanded.</hi> 2. That in all <hi>duties commanded,</hi> and <hi>ſins forbidden,</hi> the <hi>means</hi> conducing thereunto are com<g ref="char:EOLhyphen"/>manded, and forbidden alſo.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the firſt of theſe ten Com<g ref="char:EOLhyphen"/>mandements?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt have none other Gods before me.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and what forbidden you?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Prov. 3.6. 1 Chr. 28.9. Deut. 6.13, 14. &amp; 10.12, 20. Mat. 4.10. Deut. 6.4, 5. Joh. 14, 15. Rom. 10.14. Pſal. 32.6. &amp; 50.15, <hi>ult.</hi>
+               </note> I am herein commanded to <hi>ac<g ref="char:EOLhyphen"/>knowledge</hi> the God of <hi>Iſrael</hi> for the <hi>only true God,</hi> and accordingly to <hi>ſerve</hi> and worſhip him as God, <hi>viz.</hi> To <hi>be<g ref="char:EOLhyphen"/>lieve</hi> in him, to put my whole <hi>truſt</hi> in him, to <hi>fear</hi> him, and to <hi>love</hi> him above all: and to expreſs my inward <hi>faith, hope,</hi> and <hi>love</hi> towards him by the reverent performance of all <hi>ex<g ref="char:EOLhyphen"/>ternal acts</hi> of divine worſhip com<g ref="char:EOLhyphen"/>manded
+<pb n="23" facs="tcp:100650:19"/>by him, and moſt eſpecially by my daily <hi>prayers</hi> unto him, and <hi>praiſes</hi> of him.</p>
+            <p n="2">2. <note place="margin">Exod. 24.14 Deut. 6.14. Iſa. 42.8. &amp; 48.11. Mat. 6.24. Rom. 1.25. Rev. 22.9.</note> I am <hi>forbidden</hi> to acknowledge any other <hi>god</hi> beſides him, or to pay any ſuch divine worſhip to any other, neither yet to prefer the love and ſervice of any creature before the love and ſervice of my <hi>Creator,</hi> who is God bleſſed for ever.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the ſecond Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not make to thy ſelf any graven Image, nor the likeneſs of any thing that is in the heaven above, or in the earth beneath, or in the water under the earth. Thou ſhalt not bow down to them nor worſhip them: For I the Lord thy God am a jealous God, and viſit the ſins of the fathers upon the children unto the third and fourth generation of them that hate me, and ſhew mery un<g ref="char:EOLhyphen"/>to thouſands of them that love me, and keep my Commande<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <pb n="24" facs="tcp:100650:20"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and what forbidden you?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Exod. 34.11. Deut. 4.2. &amp; 12.32. Mat. 28 20. Ioh. 4.24. Pſal. 95.6. &amp; 132.7. Rom. 12.1. 1 Cor. 6.20.</note> I am herein commanded to wor<g ref="char:EOLhyphen"/>ſhip this only true God after an <hi>holy</hi> and <hi>true manner,</hi> that is, after ſuch a manner as himſelf hath preſcribed in his <hi>holy Word:</hi> And that I do it not only <hi>internally</hi> in ſpirit, and in truth, but alſo <hi>externally,</hi> with all lowly, humble and reverent proſtration of body before him.</p>
+            <p n="2">2. <note place="margin">Lev. 19.4. &amp; 26.1. 1 Cor. 10.14. Ezek. 14.4, 6. 2 Cor. 10.5. Rom 2.22.</note> I am forbidden to worſhip the <hi>true God</hi> after a <hi>falſe manner;</hi> not to worſhip him by an <hi>Idoll,</hi> nor by an <hi>Image,</hi> neither yet according to the fond <hi>imaginations</hi> of my own heart: And that as I muſt avoid <hi>Idolatry,</hi> and all falſe worſhip on the one hand, ſo I muſt alſo take heed of <hi>ſacriledge,</hi> which is to rob God of the mainte<g ref="char:EOLhyphen"/>nance of his true worſhip on the other ſide.</p>
+            <p>And the reaſon of this Law is gi<g ref="char:EOLhyphen"/>ven; <note place="margin">Deut. 4.24. &amp; 5.9. &amp; 6.15. 2 Cor. 11.2. Deut. 23.2. Rev. 2.6.</note> becauſe God is ſo <hi>jealous</hi> of his <hi>worſhip</hi> and <hi>glory,</hi> leſt we ſhould give it to any other, or to our ſelves, that he will ſeverely puniſh all ſuch as de<g ref="char:EOLhyphen"/>prave
+<pb n="25" facs="tcp:100650:20"/>his worſhip, <note place="margin">Exod. 34.7. Deut. 5.10. Dan. 9.4. Ioh. 15.14, 15.</note> even to the <hi>third</hi> and <hi>fourth generation,</hi> accounting of them as his <hi>enemies;</hi> but he will mer<g ref="char:EOLhyphen"/>cifully reward them that obey, and ſerve him according to his will, as being his <hi>friends</hi> and promoters of his intereſt.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the third Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltleſs that taketh his Name in vain.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and for<g ref="char:EOLhyphen"/>bidden you?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">1 Cor. 10.31. Pſal. 93.5. Ezek. 22.8. Pſal. 105.15. Luk. 10.16. Ezek. 44.23.</note> I am herein commanded to pro<g ref="char:EOLhyphen"/>poſe to my ſelf the <hi>honour</hi> of Gods holy <hi>Name</hi> in all my actions both <hi>di<g ref="char:EOLhyphen"/>vine</hi> and <hi>moral:</hi> And to have a ſepa<g ref="char:EOLhyphen"/>rate, and diſtinct reſpect for all ſuch ſuch <hi>things</hi> and <hi>perſons,</hi> as have the <hi>name of God</hi> called upon them, and more immediately relate to his ſervice.</p>
+            <pb n="26" facs="tcp:100650:21"/>
+            <p n="2">2. <note place="margin">Lev. 18.21. &amp; 19.12. &amp; 21.6. &amp; 22.2, 15, 32. Mat. 23.16, 20, 22. Hoſ. 10.4. Lev. 24.14. Jam. 3.9. Prov. 30.9. 2 Tim. 2.19. 2 Sam. 12.14. Rom. 2.24. Pſal. 5.7. Heb. 12 28. Prov. 13.13. Iſa. 62.2. 1 Cor. 11.22, &amp;c.</note> I am herein forbidden all raſh, unadviſed, wilful profanations of Gods ever bleſſed Name, by <hi>oathes, perju<g ref="char:EOLhyphen"/>ries, execrations, curſings</hi> of the crea<g ref="char:EOLhyphen"/>tures, of my neighbors, or of my ſelf; not to uſe the name of God ſlightly, idly, fooliſhly, and vainly, much leſs to cover any deceits, falſ<g ref="char:EOLhyphen"/>hoods, or what is in any reſpect un<g ref="char:EOLhyphen"/>lawful, or ſinful: not unadviſedly or irreverently to entermeddle, with Gods holy <hi>Word, Sacraments</hi> or any parts of his holy worſhip: neither yet to ſlight, undervalue, or deſpiſe ei<g ref="char:EOLhyphen"/>ther <hi>things,</hi> or <hi>perſons,</hi> wherein, and whereby God is <hi>honoured,</hi> and where<g ref="char:EOLhyphen"/>upon his holy <hi>Name</hi> is called.</p>
+            <p>And the reaſon is given, <note place="margin">Zach. 5.3, 4. Deu. 28.58, 59 Heb. 12.28, 29.</note> becauſe God will never excuſe ſuch irreligi<g ref="char:EOLhyphen"/>ous profanations of his Majeſty, but will aſſuredly puniſh all offenders in this kinde.</p>
+            <p>7. <hi>Queſt.</hi>
+            </p>
+            <p>What is the fourth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Remember that thou keep holy the Sabbath day: fix daies ſhalt thou la<g ref="char:EOLhyphen"/>bour and do all that thou haſt to do;
+<pb n="27" facs="tcp:100650:21"/>but the ſebenth day is the Sabbath of the Lord thy God. In it thou ſhalt do no manner of work, thou, and thy ſon, and thy daughter, thy man-ſerbant, and thy maid-ſerbant, thy cattell and the ſtranger that is within thy gates; for in ſix daies the Lord made beaven and earth, the ſea, and all that in them is, and reſted the ſebenth day; wherefore the Lord bleſſed the ſebenth day, and hallowed it.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and what forbidden?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Col. 2.16, 17. 1 Pet. 2.5. Heb. 4.10. Exod. 31.15. &amp; 35.2. Luk. 23.56. Heb. 10.25.</note> I am commanded in <hi>general</hi> to dedicate every day of my life a <hi>ſpiri<g ref="char:EOLhyphen"/>tual Sabbath</hi> unto God, that is, a reſt from ſin and vacancy to his ſervice: And in <hi>particular</hi> that I devote every <hi>ſeventh day,</hi> or <hi>one day</hi> in <hi>ſeven</hi> to the publick and ſolemn worſhip of God, with the reſt of his Church and people.</p>
+            <p n="2">2. I am forbidden on this day, <note place="margin">Exod. 31.14. &amp; 34.21. Jer. 17 21, &amp;c. Deut. 5 14. Mat. 12.10, 11, 12, 13.</note> ei<g ref="char:EOLhyphen"/>ther my ſelf to do, or ſuffer any I have command over to do any <hi>ſervile work,</hi> but what is of <hi>neceſſity,</hi> or <hi>cha<g ref="char:EOLhyphen"/>rity,</hi> that ſo I may the better attend
+<pb n="28" facs="tcp:100650:22"/>the ſervice of God both publick and private.</p>
+            <p>And the reaſon is given, <note place="margin">Gen. 2.2, 3. Exod. 31.17. Heb. 4.4.</note> becauſe the Lord after ſix daies labour in the work of the <hi>Creation,</hi> reſted on the <hi>ſeventh:</hi> called therefore the <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> which ſignifies <hi>reſt:</hi> the com<g ref="char:EOLhyphen"/>memoration whereof we Chriſtians obſerve on the <hi>firſt day</hi> of the week, which is <hi>Sunday,</hi> 
+               <note place="margin">Mat. 28.1. Ioh. 20.19. Rev. 1.10.</note> becauſe our bleſſed Lord aroſe on that day from death to life, and perfected thereby the great work of our <hi>Redemption.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the fifth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Honour thy father and thy mother, that thy daies may be long in the land which the Lord thy God giveth thee.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and what forbidden?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. I am commanded in <hi>general</hi> to give <hi>honour</hi> to whom honour is due, and to have reſpect to all my <hi>ſuperiors,</hi> 
+               <note place="margin">Rom. 13.7. Lev. 19.32.</note> whether in <hi>age, quality,</hi> or <hi>condition:</hi>
+               <pb n="29" facs="tcp:100650:22"/>more <hi>particularly,</hi> 
+               <note place="margin">Eccleſ. 10.20. Prov. 11.29. &amp; 30.17. Epheſ. 6.1. Col. 3.20. Tit. 3.1. Prov. 24.21. Mat. 22.17, &amp;c 1 Pet. 2.13, 14, 15, 16, 17, 18. Heb. 13.17.</note> to reverence and obey my natural <hi>Parents</hi> in all their juſt and lawful domeſtick commands: to obey <hi>Kings,</hi> and all that are in <hi>au<g ref="char:EOLhyphen"/>thority,</hi> paying them <hi>tribute, cuſtome,</hi> and <hi>honour:</hi> to obey alſo all <hi>civil Maſters,</hi> and all my <hi>ſpiritual Gover<g ref="char:EOLhyphen"/>nour, Paſtors,</hi> and <hi>Teachers,</hi> according to their ſeveral reſpective intereſts and authority over me.</p>
+            <p n="2">2. I am herein forbidden all <hi>diſ<g ref="char:EOLhyphen"/>reſpectfulneſs</hi> to my ſuperiors;
+<note place="margin">Eccleſ. 10.20. Prov. 30.17. Rom. 13.2, 3. 1 Pet. 2.18. Coſ. 3.20, &amp;c.</note> all <hi>diſ<g ref="char:EOLhyphen"/>obedience</hi> to the commands, and con<g ref="char:EOLhyphen"/>tempt of the perſons of my <hi>Parents,</hi> and of all <hi>higher powers:</hi> all <hi>murmur<g ref="char:EOLhyphen"/>ings</hi> and <hi>repinings</hi> againſt ſuch as are in <hi>authority</hi> over me, whether <hi>Civil</hi> or <hi>Eccleſiaſtical.</hi>
+            </p>
+            <p>And this is <hi>the firſt Commandement with promiſe:</hi> 
+               <note place="margin">Epheſ. 6 2. 1 Tim. 2.2.</note> For that all peace and ſecurity depends upon this; that every one do his duty in all his relations unto others.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the ſixth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt do no murther.</hi>
+            </p>
+            <pb n="30" facs="tcp:100650:23"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is commanded, and forbidden herein?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Mat. 22.39. Epheſ. 5.29. Gen. 9.5. Rom. 12.18. Heb. 12.14. Rom. 13 9, 10. 1 Pet. 1.22. 1 Joh. 3.11. &amp; 4.7, 8. Mat. 5.43, 44. Luk. 6.32, &amp;c.</note> I am herein commanded to uſe all means for the preſervation both of my <hi>own life,</hi> and the lives of <hi>others</hi> alſo: And to this end to live <hi>peaceably,</hi> and <hi>charitably,</hi> and to love <hi>all men,</hi> even my very <hi>enemies.</hi>
+            </p>
+            <p n="2">2. <note place="margin">Gen. 9.6, Pſal. 55.23. Epheſ. 9.31. Col. 3.8. Lev. 19.17. Rom. 13.13. 1 Theſſ. 5.15. 1 Pet. 3.9. Mat. 5.21, 22.</note> I am forbidden not only to avoid all manner of <hi>murder</hi> and <hi>bloud<g ref="char:EOLhyphen"/>ſhed,</hi> whether directly or indirectly, but alſo all <hi>anger, wrath, hatred, vari<g ref="char:EOLhyphen"/>ance, ſtrife, contention, revenge</hi> and <hi>re<g ref="char:EOLhyphen"/>viling</hi> of others, though we be pro<g ref="char:EOLhyphen"/>vok'd thereunto.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the ſeventh Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not commit adultery.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is commanded, and what for<g ref="char:EOLhyphen"/>bidden herein?</p>
+            <pb n="31" facs="tcp:100650:23"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">1 Cor. 6.13, &amp;c 1 Theſſ. 4.3, 4, 5. &amp; 5.6, 8. 1 Pet. 1.13. &amp; 4.7.</note> I am herein commanded to be <hi>chaſte, ſober,</hi> and <hi>temperate,</hi> that both my <hi>ſoul</hi> and <hi>body</hi> may be preſerved the pure, ſpotleſs, and immaculate <hi>mem<g ref="char:EOLhyphen"/>bers</hi> of <hi>Chriſt,</hi> and <hi>temples</hi> of the <hi>Holy Ghoſt.</hi>
+            </p>
+            <p n="2">2. I am forbidden <hi>adultery, <note place="margin">Deut. 5.18. 1 Cor. 2.10.8. Gal. 5.19. Epheſ. 5.3. Col. 3.5. 2 Cor. 7.1. Mar. 5.27, 28. Gal. 5.24. Rom. 13.13. Luk. 21.34. 1 Cor. 5.9, 11, 1 Pet. 3.2, 3. &amp; 4.3. Job 31. 1. Iſa. 3.16, &amp;c. 2 Pet. 2.14. Col. 3.8. Epheſ. 5.4.</note> fornicati<g ref="char:EOLhyphen"/>on,</hi> and all kinde of <hi>corporal uncleanneſs,</hi> which is not conjugal; together with all kinde of <hi>unclean thoughts</hi> and <hi>de<g ref="char:EOLhyphen"/>ſires, words</hi> and <hi>behaviour,</hi> and all pro<g ref="char:EOLhyphen"/>vocations thereunto, <hi>viz.</hi> all <hi>riot</hi> and <hi>exceſs, ſurfetting, gluttony,</hi> and <hi>drun<g ref="char:EOLhyphen"/>kenneſs:</hi> all wanton and looſe <hi>company,</hi> light <hi>attire,</hi> wandring <hi>eyes,</hi> and filthy <hi>communication.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the eighth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not ſteal.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is commanded, and what for<g ref="char:EOLhyphen"/>bidden you herein?</p>
+            <pb n="32" facs="tcp:100650:24"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Iſa. 56.1. &amp; 33.15. Pſal. 15.2. Prov. 3.3. &amp; verſ. 27, 28. Pſal. 82.3. Ecclus 4.1. &amp; 34.21, 22. Mat. 5.42. Levit. 6.4, 5. &amp; 24.21. Rom. 13.7. Luk. 19.8. Dan. 4.27.</note> I am commanded to be <hi>juſt</hi> and <hi>upright</hi> in all my dealings, that ſo no man may by me be depriv'd of what rightly belongs unto him; and to my power I am commanded to be <hi>charitable</hi> alſo, that the poor be not depriv'd of their proper livelihood and ſubſiſtence, which is my <hi>ſuperflui<g ref="char:EOLhyphen"/>ty:</hi> And if in caſe of any wrong done by me, I am hereby enjoyned to make <hi>reſtitution</hi> to the party wrong<g ref="char:EOLhyphen"/>ed by me; or if that cannot be done, to give it to the <hi>poor.</hi>
+            </p>
+            <p n="2">2. <note place="margin">Lev. 25.14, 17. Ezek. 22.12. Lev. 19.11, 13. 1 Theſſ 4.6. Luk. 6.30. Rom 13.8. Tob. 4.7, 8, 9.</note> I am forbidden all <hi>oppreſſion,</hi> and <hi>extortion, ſtealth, couſenage, circum<g ref="char:EOLhyphen"/>vention,</hi> denial of an <hi>almes</hi> to the poor; and in a word, all waies and means, whereby either publickly or private<g ref="char:EOLhyphen"/>ly, by <hi>force,</hi> or by <hi>fraud,</hi> I may acquire, or detain from any what either by the rule of <hi>righteouſneſs</hi> or <hi>charity</hi> be<g ref="char:EOLhyphen"/>longs unto them.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the ninth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not bear ſalſe witneſe againſt thy neighbour.</hi>
+            </p>
+            <pb n="33" facs="tcp:100650:24"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is herein commanded, and forbidden you?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Pſal. 15.2. Luk. 8.16. Epheſ. 4.25. Prov. 22.1. Eccleſ. 7.1. Rom. 13.9, 10. Jam. 3.9, 10. Col. 4.6.</note> I am commanded in general to give <hi>teſtimony</hi> to the <hi>truth</hi> upon all oc<g ref="char:EOLhyphen"/>caſions: and particularly to preſerve and advance the <hi>good-name,</hi> and eſteem of my <hi>neighbour:</hi> and to ſpeak well of all men, as far as in <hi>truth</hi> and <hi>mo<g ref="char:EOLhyphen"/>deſty,</hi> and without <hi>flattery</hi> I may.</p>
+            <p n="2">2. I am forbidden all <hi>falſe</hi> and <hi>evil</hi> ſpeaking, <hi>lying</hi> and <hi>ſlandering, <note place="margin">Lev. 19.11, 16. Tit. 3.2. Jam. 4.11. Rev. 22.15. Prov. 10.18. Pſal. 110.5. 1 Pet. 3.9, 10. Mat. 7.1, &amp;c. Prov. 11.13. &amp; 18.8 Ecclus. 19.6, 7, &amp;c. &amp; 21.25, 26. &amp; 20.25. Jam. 1.19.</note> railing</hi> and <hi>reviling,</hi> raſh <hi>cenſuring</hi> and <hi>con<g ref="char:EOLhyphen"/>demning</hi> others: And to this end I am forbidden all <hi>tale-bearing,</hi> and much <hi>medling</hi> and <hi>talking</hi> of other mens lives, and manners, wherein by ſome reſpective duty I am not concerned.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is the tenth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not cover thy neighbours houſe, thou ſhalt not cobet thy neigh<g ref="char:EOLhyphen"/>boures wife, nor his ſerbant, nor his maid, nor his oxe, nor his aſſe, nor any thing that is thy neighbours.</hi>
+            </p>
+            <pb n="34" facs="tcp:100650:25"/>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>What is commanded, and what for<g ref="char:EOLhyphen"/>bidden you herein?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. <note place="margin">Phil. 4.11. 1 Tim. 6.6, 8. Heb. 13.5. Epheſ. 4.28. 2 Theſ. 3.8. &amp;c. Prov. 10.4. &amp; 13.4. &amp; 21.5.</note> I am commanded to be <hi>con<g ref="char:EOLhyphen"/>tent</hi> with my preſent ſtate and con<g ref="char:EOLhyphen"/>dition what ever it be, and in order hereunto to be <hi>diligent,</hi> and induſtri<g ref="char:EOLhyphen"/>ous in the duties of my calling, both for my own ſupport, and the relief of others.</p>
+            <p n="2">2. <note place="margin">Rom. 7.7. 1 Joh. 2.16. Mat. 15.19. Jam. 1.15.</note> I am herein forbidden not only not to wrong my <hi>neighbour</hi> in body, <hi>goods,</hi> or <hi>good name,</hi> but not ſo much alſo as to <hi>covet</hi> or deſire it: neither in relation to my profit, to covet my <hi>neighbours houſe, oxe, aſſe;</hi> neither in relation to my <hi>pleaſure,</hi> to cover <hi>his wife, maid;</hi> neither yet in relation either to profit or pleaſure, to covet <hi>any thing that is his.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What doeſt thou chiefly learn by theſe Commandements?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>I learn two things</hi> to be chiefly, and ſummarily enjoyned, and com<g ref="char:EOLhyphen"/>manded me: namely 1. <hi>My duty to<g ref="char:EOLhyphen"/>wards God.</hi> 2. <hi>My duty towards my
+<pb n="35" facs="tcp:100650:25"/>neighbour:</hi> 
+               <note place="margin">Mar. 22 37, 38, 39, 40. Exod. 31.18. &amp; 32.15, 16.</note> which divides theſe <hi>ten Commandements</hi> into <hi>two Tables,</hi> the <hi>former</hi> conſiſting of the <hi>four firſt,</hi> and the <hi>latter</hi> of the <hi>ſix laſt</hi> Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What</hi> are the particulars of <hi>your duty towards God,</hi> in the four firſt Commandements enjoyned?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The ſum of all in <hi>general,</hi> is, <note place="margin">Deu 30.16, 20. Mat. 22.37. Luk. 10.27</note> 
+               <hi>to love the Lord my God with all my heart, and with all my ſoul, with all my minde, and with all my ſtrength.</hi> More <hi>par<g ref="char:EOLhyphen"/>ticularly;</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>1</label>* <hi>To beliebe in him, to fear him, to put my whole truſt in him, to call upon him</hi> by ſervent and frequent prayers, <hi>to give him thanks</hi> for his mercies, and daily to praiſe and mag<g ref="char:EOLhyphen"/>nifie his name.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>2</label>* <hi>To worſhip him,</hi> and that not only with all <hi>inward</hi> devotion of ſoul, but alſo with all <hi>outward</hi> re<g ref="char:EOLhyphen"/>verence and low proſtration of body.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>3</label>* <hi>To honour his holy Name and hie Word,</hi> and what ever hath his holy name, and mark imprinted there<g ref="char:EOLhyphen"/>on.</p>
+            <pb n="36" facs="tcp:100650:26"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>4</label>* <hi>To ſerve him truly all the daies of my life,</hi> and alſo punctually to ob<g ref="char:EOLhyphen"/>ſerve thoſe daies that are conſecrate to his publick, and ſolemn worſhip.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What</hi> are the particulars of <hi>your duty towards your neighbour,</hi> in the ſix laſt Commandements enjoyned?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The ſum of all in <hi>general,</hi> 
+               <note place="margin">Rom. 13.9. Mat. 7.12.</note> is, <hi>to love my neighbour as my ſelf,</hi> and to ex<g ref="char:EOLhyphen"/>preſs this love, by <hi>doing unto all men as I would they ſhould doe unto me.</hi> More particularly,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>5</label>* <hi>To love, honour, and ſuccour my father and mother: to honour and obey</hi> the <hi>lawful Power</hi> of the land, whether <hi>ſupreme</hi> or <hi>ſubordinate: <hi>to ſubmit my ſelf to all my Governors, Teachers, ſpiritual paſtours, and Maſters: to order my ſelf lowly and reverently to all my betters,</hi>
+               </hi> and <hi>affably, courteouſly,</hi> and <hi>kindly</hi> to all perſons whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>6</label>* <hi>To hurt no body by word nor deed, to bear no malice nor hatred in my heart.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>7</label>* <hi>To keep my body in temperance, ſoberneſs, and chaſtity.</hi>
+            </p>
+            <pb n="37" facs="tcp:100650:26"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>8</label>* <hi>To be true and juſt in all my dea<g ref="char:EOLhyphen"/>lings, and to keep my hands from pick<g ref="char:EOLhyphen"/>ing and ſtealing.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>9</label>* <hi>To avoid all evil ſpeaking, lying and ſlandering.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Command. </seg>10</label>* <hi>Not to covet or deſire other mens goods, but to learn and labour truly to get mine own living, and to do my du<g ref="char:EOLhyphen"/>ty in that ſtate of life, whereunto it ſhall pleaſe God to call me.</hi>
+            </p>
+            <p>
+               <hi>Lord have mercy upon me, and write all theſe thy Lawes in my heart, I beſeech thee: and give me thy grace enabling me to expreſs my obedience hereunto in all the acti<g ref="char:EOLhyphen"/>ons of my life, through Jeſus Chriſt our Lord: Amen.</hi>
+            </p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="38" facs="tcp:100650:27"/>
+            <head>CHAP. III. <hi>Of the Lords Prayer.</hi>
+            </head>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>DOeſt thou think that <hi>thou art able to do all theſe things of thy ſelf, to walk in the Commandements of God, and to ſerve him?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I do moſt humbly confeſs that <hi>with<g ref="char:EOLhyphen"/>out Gods ſpecial Grace,</hi> 
+               <note place="margin">Iſa. 26.12. Joh. 15.5. Phil. 2.13. &amp; 4.13. Pſal. 105.4. Mat. 7.7, 11. Luk. 11.9, 10, 11, 12.</note> I cannot ob<g ref="char:EOLhyphen"/>ſerve to do the leaſt of Gods comman<g ref="char:EOLhyphen"/>dements, &amp; <hi>
+                  <hi>I muſt therefore</hi> learn at all times to cal upon God by diligent pray<g ref="char:EOLhyphen"/>er</hi> for the aſſiſtance of his divine grace.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>After what manner are you to pray unto God?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>After the ſame manner that Chriſt in his holy Goſpel hath taught me, ſaying,</p>
+            <p>
+               <hi>Our Father which art in heaven, hallowed &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Of how many parts doth this prayer conſiſt?</p>
+            <pb n="39" facs="tcp:100650:27"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Of three parts: 1. The <hi>Preface.</hi> 2. The <hi>Petitions.</hi> 3. The <hi>Doxologie,</hi> or concluſion.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Rehearſe the parts diſtinctly.</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p n="1">1. The <hi>Preface</hi> in theſe words: <hi>Our Father which art in heaven.</hi>
+            </p>
+            <p n="2">2. The <hi>Petitions</hi> are ſix in number: The three firſt concern the glory and ſervice of <hi>God: viz.</hi> 1. <hi>Hallowed be thy Name. Thy Kingdome come. 3. Thy will be dome in earth as it is in heaven.</hi> The three laſt concern <hi>our own</hi> wants and engagements, <hi>viz.</hi> 4. <hi>Give us this day our daily bread.</hi> 5. <hi>Forgive us our treſpaſſes as we for<g ref="char:EOLhyphen"/>gve them that treſpaſs againſt us.</hi> 6. <hi>Lead us not into temptation, but de<g ref="char:EOLhyphen"/>liver us from evil.</hi>
+            </p>
+            <p n="3">3. The <hi>Doxologie</hi> or concluſion in theſe words: <hi>For thine is the King<g ref="char:EOLhyphen"/>dome, the power and the glory, forever and ever:</hi> Amen.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What do you deſire of God in this Prayer?</hi>
+            </p>
+            <pb n="40" facs="tcp:100650:28"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>I deſire my Lord God our heavenly Father, <note place="margin">Preface.</note> who is the giver of all good<g ref="char:EOLhyphen"/>neſs,</hi> and gives <hi>willingly</hi> becauſe a <hi>father,</hi> and <hi>plentifully</hi> becauſe <hi>in hea<g ref="char:EOLhyphen"/>ven;</hi> that he would be pleaſed <hi>to ſend his grace unto me, and unto all peo<g ref="char:EOLhyphen"/>ple,</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Petition. </seg>1</label> 1. <hi>That we may worſhip him as we ought to do:</hi> That his ever bleſſed name may be ſanctified by me and by all men upon whom his holy Name is called.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Petit. </seg>2</label> 2. <hi>That we may ſerve him</hi> as be<g ref="char:EOLhyphen"/>comes the faithful <hi>ſubjects</hi> of his king<g ref="char:EOLhyphen"/>dome, ſubmitting unto and walking after his moſt <hi>holy Lawes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Petit. </seg>3</label>
+               <hi>That we may obey,</hi> and do his will both <hi>readily, ſincerely,</hi> and <hi>conſtantly</hi> here upon earth, as 'tis done by the bleſſed <hi>Angels</hi> and <hi>Saints</hi> in heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Petit. </seg>4</label> And I do further <hi>pray unto him,</hi> that as our neceſſities are renewed every day, ſo he would be pleaſed <hi>to ſend us</hi> day by day, <hi>all things that be needful both for our ſouls and bodies,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Petit. </seg>5</label>
+               <hi>That he would be merciful unto us and forgive us our ſins</hi> through <hi>Jeſus Chriſt,</hi> reſolving for his ſake, and ac<g ref="char:EOLhyphen"/>cording
+<pb n="41" facs="tcp:100650:28"/>to his command to forgive all others in what they do, or ſhall of<g ref="char:EOLhyphen"/>fen <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd treſpaſs agninſt me.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Petit. </seg>6</label>
+               <hi>That he would ſave and defend us from all dangers ghoſtly and bodily:</hi> preſerving us from the evil of <hi>ſin</hi> by his <hi>Grace</hi> and delivering us from the evil of <hi>puniſhment</hi> by his <hi>Mercy:</hi> and more particularly, that he would de<g ref="char:EOLhyphen"/>liver us from all the temptations of that grand enemy of our ſouls, <hi>the Devil:</hi> that ſo we may be delivered from the wrath of God, and from <hi>everlaſting death</hi> and <hi>damnation</hi> here<g ref="char:EOLhyphen"/>after.</p>
+            <p>
+               <hi>And this I truſt he will do of his great mercy and goodneſs,</hi> 
+               <note place="margin">Concluſion.</note> being <hi>infinite</hi> in both, as he is in <hi>glory, power,</hi> and <hi>do<g ref="char:EOLhyphen"/>minion:</hi> His <hi>Kingdome</hi> is over all, His <hi>Power</hi> is infinite, and His <hi>Glory</hi> is above the heavens, and this from everlaſting to everlaſting. And 'tis the hearty deſire of my ſoul, that it ſhould be ſo: <hi>and therefore I ſay Amen,</hi> that is, <hi>So be it.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Muſt you alwaies make uſe of this form when you pray unto God?</p>
+            <pb n="42" facs="tcp:100650:29"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>This is alway to be annext to my prayers, <note place="margin">Mat. 6.9, &amp;c. Luk. 11.3.</note> either before or after: for 'tis both the <hi>Pattern</hi> according to which I am to pray, Mat. 6.9. And the <hi>form</hi> alſo I am to uſe when I pray; com<g ref="char:EOLhyphen"/>manded, Luk. 11.3.</p>
+            <p>
+               <hi>O Holy Jeſu, who haſt taught me to pray unto God aright; give me the heart with all religious care<g ref="char:EOLhyphen"/>fulneſs, and devotion of ſoul to obſerve thy directions and com<g ref="char:EOLhyphen"/>mands herein: and daily to powre forth my ſoul unto God in that di<g ref="char:EOLhyphen"/>vine and heavenly inſpired prayer which thou haſt taught me. And let my prayers be ever acceptable unto God through thy bleſſed medi<g ref="char:EOLhyphen"/>ation and interceſsion for me: who art my only Advocate and Media<g ref="char:EOLhyphen"/>tor, bleſſed for ever: Amen.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="43" facs="tcp:100650:29"/>
+            <head>CHAP. IV. <hi>Of the Sacraments.</hi>
+            </head>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>WHat other means hath God or<g ref="char:EOLhyphen"/>dained for the conveyance of his graces into our hearts?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The uſe of <hi>Sacraments.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>How many Sacramente hath Chriſt ordained in his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Two only as generally neceſſary to ſalvation:</hi> 
+               <note place="margin">Exo. 31.13, 15. Epheſ. 5.31, 32. Act. 13.3. Mat. 28, 19. &amp; 26.26, 27, 28. Rom. 6.3. Gal. 3.27. Col. 2.7. Joh. 6.53, 54, 55, 56.</note> There are other external repreſentations of Gods mercies, and rites of conveying the ſame, but there are only two commanded as ab<g ref="char:EOLhyphen"/>ſolutely neceſſary to ſalvation: <hi>that is to ſay,</hi> 1. <hi>Baptiſm,</hi> 2. <hi>And the Supper of the Lord:</hi> By <hi>Baptiſm</hi> we are admitted members of Chriſts Church: by the <hi>Lords Supper</hi> we are confirmed and grow up to be <hi>perfect men</hi> in <hi>Chriſt:</hi> therefore <hi>children</hi> are admitted to the Sacrament of <hi>Baptiſm,</hi>
+               <pb n="44" facs="tcp:100650:30"/>but not to the <hi>Lords Supper</hi> till they be grown up to ripeneſs of years.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What meaneſt thou by this word Sacrament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>I mean an outward and viſible ſign of an inward &amp; ſpiritual grace, given and ordained by Chriſt himſelf, as a means whereby we receive the ſame, and a pledge to aſſure us thereof.</hi> Or thus:</p>
+            <p>Becauſe the graces and mercies of God <hi>in Chriſt</hi> are inward and inviſi<g ref="char:EOLhyphen"/>ble,
+<note place="margin">1 Pet. 3.21. 1 Cor. 11.26.</note> therefore <hi>Chriſt</hi> complying with the weakneſs of our ſouls, which un<g ref="char:EOLhyphen"/>derſtand not but by bodily organs, hath ordained in his Church certain Rites called <hi>Sacraments,</hi> which are not only viſible, and apparent <hi>ſigns</hi> of his inviſible and <hi>hidden</hi> Graces; but alſo the <hi>means</hi> whereby we are made partakers of his Graces, and <hi>pledges</hi> to aſſure us of them.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>How many parts be there in a Sa<g ref="char:EOLhyphen"/>crament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Two: 1. <hi>The outward viſible ſign,</hi>
+               <pb n="45" facs="tcp:100650:30"/>or thing <hi>ſignifying:</hi> 2. <hi>The inward inviſible Grace,</hi> or thing <hi>ſignified.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What is the outward viſible ſign or form in Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>That which we ſee with our eyes in Baptiſm, is <hi>Water, <note place="margin">Act. 10.47.</note> wherein the perſon baptized is dipped or ſprinkled with it:</hi> And the form of words to be uſed when the perſon is ſo waſhed, is, <hi>In the Name of the Father,
+<note place="margin">Mat. 28.19.</note> of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What is the inward or ſpiritual Grace,</hi> thereby repreſented?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The waſhing of the ſoul from ſin, <note place="margin">1 Cor. 6.11. Epheſ. 5.26. Act. 22.16. Rom. 6.3, 4. Phil. 3.10. 1 Joh. 3.14. Joh. 3.5. Pſal. 51.5. Epheſ. 2.3. Joh. 1.12.</note> and ſanctification to the ſacred ſer<g ref="char:EOLhyphen"/>vice of God: which is called in holy Scripture, <hi>A death unto ſin, and a new virth unto righteouſneſs: for be<g ref="char:EOLhyphen"/>ing by nature born in ſin, and the children of wrath, we are hereby made the children of grace.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What is required of perſons to be baptized?</hi>
+            </p>
+            <pb n="46" facs="tcp:100650:31"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Two things: <note place="margin">Act. 2.38. &amp; 8.36, 37.</note> 1. <hi>Repentance, where<g ref="char:EOLhyphen"/>by they forſake ſin,</hi> and conſequently the ſervice of the <hi>world,</hi> the <hi>fleſh,</hi> and the <hi>Devil,</hi> tempting unto ſin. 2. <hi>Faith, whereby they ſtedfaſtly be<g ref="char:EOLhyphen"/>lieve the promiſes of God made to them in that Sacrament.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>Why then are children bapti<g ref="char:EOLhyphen"/>zed, when by reaſon of their tender age they can neither believe nor repent?</hi>
+            </p>
+            <p>Anſwer.</p>
+            <p>They have <hi>Faith</hi> and <hi>Repentance</hi> in the <hi>poſſibility,</hi>
+               <note place="margin">Mar. 10.14.</note> though not in <hi>the actu<g ref="char:EOLhyphen"/>all being</hi> thereof: and <hi>they do per<g ref="char:EOLhyphen"/>form</hi> theſe duties, though not by themſelves, yet <hi>by their ſureties, who promiſe and vow both Faith and Re<g ref="char:EOLhyphen"/>pentance in their names, <note place="margin">2 Pet. 2.20.</note> which when they come to age, themſelves are bound to perform;</hi> otherwiſe they for<g ref="char:EOLhyphen"/>feit the benefits of their Baptiſm.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>Why was the Sacrament of the Lords Supper ordained?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>For two reaſons chiefly: 1. For a <hi>Sign:</hi> 2. For a <hi>Seal.</hi> 1. For a Sign:
+<pb n="47" facs="tcp:100650:31"/>to ſignifie and repreſent unto us <hi>the ſacrifice of Chriſts death</hi> for the ſins of the world: <note place="margin">Luk. 22.19. Joh. 6.56.</note> whereof we ought <hi>to have the continual remembrance.</hi> 2. For a Seal to convey, or pledge to aſſure us of <hi>the great benefits we re<g ref="char:EOLhyphen"/>ceive by</hi> the death of <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>Since in every Sacrament you ſay there are two parts, the outward ſign, and the inward grace: <hi>what is the outward part, or ſign of the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The outward elements in this Sa<g ref="char:EOLhyphen"/>crament are <hi>Bread and Wine, <note place="margin">1 Cor. 11.23. Luk. 22.19.</note> which the Lord hath commanded to be <hi>admi<g ref="char:EOLhyphen"/>niſtred, and</hi> received:</hi> ſaying, <hi>Take, eat, drink ye all of this, do this in re<g ref="char:EOLhyphen"/>membrance of me.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What is the inward part, or thing ſignified</hi> by the Sacramental Bread and Wine?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>The body of Chriſt,</hi> 
+               <note place="margin">Joh. 6.51.</note> broken upon the Croſſe, by the <hi>Bread:</hi> and his <hi>bloud</hi> powred out, by the <hi>Wine:</hi> and as the Bread and Wine are truly taken
+<pb n="48" facs="tcp:100650:32"/>and received corporally: ſo <hi>verily and indeed is the body and bloud of Chriſt taken and received</hi> ſpiritually of every true <hi>faithful</hi> ſoul <hi>in the Lords Supper,</hi> 
+               <note place="margin">Joh. 6.56, 63. 1 Cor. 10.16.</note> if rightly admini<g ref="char:EOLhyphen"/>ſtred.</p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What are the benefits, whereof we are made partakers by</hi> the right re<g ref="char:EOLhyphen"/>ceiving of the Lords Supper?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>Our ſouls</hi> are thereby <hi>ſtrengthned</hi> with divine grace, <note place="margin">Mat. 11.28. Rom. 8.32. Phil. 4.13. Epheſ. 1.7, 8. 1 Pet. 2.3. Epheſ. 5.30. Joh. 6.55, 56. Pſal. 104.15.</note> and <hi>refreſhed</hi> with the ſenſe of Gods mercy, by the ver<g ref="char:EOLhyphen"/>tue of <hi>Chriſts body and bloud</hi> ſpiritu<g ref="char:EOLhyphen"/>ally received, even <hi>as our bodies</hi> are ſtrengthened and refreſhed in the uſe of common and material <hi>bread and wine.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi>
+            </p>
+            <p>
+               <hi>What is required of them that come to the Lords Supper,</hi> that they may be made partakers of the benefits thereof?</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>
+               <hi>To examine themſelves</hi> 1. <note place="margin">1 Cor. 11.28. 2 Cor. 6.14. Pſal. 24.4. &amp; 26.6.</note> 
+               <hi>Whe<g ref="char:EOLhyphen"/>ther they repent them truly of their former ſins, ſtedfaſtly purpoſing to lead a new life.</hi> 2. Whether they <hi>have a lively faith in the mercies of
+<pb n="49" facs="tcp:100650:32"/>God through Chriſt:</hi> 
+               <note place="margin">2 Cor. 7.1. Heb. 6.4, 5, 6. Joh. 3.15, 16. &amp; 6.25 &amp; 7.38. Jam. 2.14, 17, 20, 24, 26. 1 Cor. 11.24, 25. 2 Pet. 1.15. Pſal. 53.2, 3. Mat. 5.23, 24. 1 Tim. 6.18. Heb. 13.16. Mat. 6.14, 15. Epheſ. 4.32. Col. 3.13.</note> now the <hi>life</hi> of <hi>faith</hi> is <hi>obedience,</hi> or <hi>good-works;</hi> for <hi>faith</hi> without <hi>works</hi> is dead. 3. That they have <hi>a thankful</hi> and devout <hi>re<g ref="char:EOLhyphen"/>membrance of Chriſts death.</hi> 4. That they <hi>be in charity with all men:</hi> which charity is exerciſed in <hi>giving,</hi> and <hi>forgiving:</hi> 1. <hi>Giving</hi> unto others, what their neceſſities require, and our abilities afford. 2. <hi>Forgiving</hi> others in what they have any way provok'd or injur'd us.</p>
+            <p>
+               <hi>O Holy Jeſus, who haſt vouch<g ref="char:EOLhyphen"/>ſafed, not only to redeem me un<g ref="char:EOLhyphen"/>to God in thy bloud, but alſo to ordain Sacraments whereby I may not only be engraffed into thee, but alſo nouriſhed by thy moſt precious body and bloud: O fill my heart with true thankfulneſs unto thee for ſuch unſpeakable mercies: and grant that in the wiſe and pious uſe hereof I may grow up into thee in all grace and godlineſs, to
+<pb n="50" facs="tcp:100650:33"/>the hopes of a full and immediate enjoyment of thee face to face in glory, bleſſed Jeſus, Saviour and Redeemer: Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Lately printed for <hi>R. Royſton</hi> a Book in 4<hi rend="sup">o</hi> Entituled,</head>
+            <list>
+               <item>A Diſcourſe 1. <hi>Of the Holy Spirit of God, his Impreſſions and workings on the Souls of Men.</hi>
+               </item>
+               <item>2. <hi>Of Divine Revelation, Mediate and Immediate.</hi>
+               </item>
+               <item>3. <hi>Of Error, Hereſie, and Schiſm: the Nature, Kindes, Cauſes, Reaſons, and Dangers thereof: with Directions for avoiding the ſame.</hi> By <hi>R. Sherlook,</hi> B.D. at <hi>Borwick-Hall</hi> in <hi>Lancaſhire.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:100650:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
